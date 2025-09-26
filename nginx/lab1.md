@@ -35,9 +35,9 @@
 Создаем папку `images` и указываем ее в конфиге, чтобы из нее брались файлы
 <img width="870" height="102" alt="image" src="https://github.com/user-attachments/assets/a87b016f-51e0-42b2-9f7d-91521c859164" /> <br>
 В итоге при клике на кнопки нас перекидывает на картинки
-<img width="2511" height="1323" alt="image" src="https://github.com/user-attachments/assets/44a15034-c1ee-40cb-872c-f9087adab50b" />
-
-
+<img width="2511" height="1323" alt="image" src="https://github.com/user-attachments/assets/44a15034-c1ee-40cb-872c-f9087adab50b" /> <br>
+## Вывод
+Ни когда до этого не работая с таким родом задач, мне было интересно разбиратся с nginx, кроме того в процессе я изучил много нового касательно сетей или других разных штук в Windows. Поэтому оцениваю свой опыт, как удачный и полезный!
 
 
 
