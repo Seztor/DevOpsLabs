@@ -20,7 +20,7 @@
 В файл hosts я добавил 2 домена, которые указывают на `127.0.0.1` <br>
 <img width="284" height="49" alt="image" src="https://github.com/user-attachments/assets/f970e6ad-02b8-4791-b545-8eed2da5dcc0" /> <br>
 - Пункт 5 HTTPS <br>
-Немного доработав конфиг он стал принудительно перебрасывать пользователя на https, что нам и было нужно. Вместе с этим я сделал все аналогичное и для 2 сайта
+Немного доработав конфиг он стал принудительно перебрасывать пользователя на https, что нам и было нужно. Вместе с этим я сделал все аналогичное и для 2 сайта <br>
 <img width="503" height="188" alt="image" src="https://github.com/user-attachments/assets/a2ce25e6-3cf8-434e-a0f0-7e4768cb7027" /> <br>
 <img width="943" height="497" alt="image" src="https://github.com/user-attachments/assets/71355490-ba11-4bdb-9dd1-2da33a1d3236" /> <br>
 Однако возникла проблема - сайт нам не доверяет :(
