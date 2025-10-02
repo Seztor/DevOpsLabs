@@ -18,7 +18,7 @@
 <img width="1240" height="1211" alt="image" src="https://github.com/user-attachments/assets/26c8e40e-d91b-4c26-abd2-72329c49a10b" />
 <img width="935" height="761" alt="image" src="https://github.com/user-attachments/assets/e3e1be63-3eac-4332-a34f-6fb974a6c45a" />
 <img width="1284" height="695" alt="image" src="https://github.com/user-attachments/assets/5cde0327-9450-494e-93bb-5e5f2f6c977d" />
-Дальше решил посмотреть есть ли среди найденных ссылок, что-то с большим весом и оказалось не зря....
+Дальше решил посмотреть есть ли среди найденных эндпоинтов, что-то с большим весом и оказалось не зря....
 <img width="1156" height="98" alt="image" src="https://github.com/user-attachments/assets/9c73dd44-45a0-429a-a056-fd5dec7f9a09" /> 
 ЦЕЛЫХ 3 гб данных сайта 😲
 <img width="1955" height="485" alt="image" src="https://github.com/user-attachments/assets/cbfa0e0b-40ab-4338-943a-a621ea95d358" />
