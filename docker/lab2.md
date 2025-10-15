@@ -34,7 +34,7 @@ RUN apt-get update && \
     rm -rf /var/lib/apt/lists/*
 ```
 ### 3 Запуск от root
-Не всегда хочется, чтобы приложения имели root права, это создает возможные уязвимости и вредит безопасности, добавим создание нового пользователя
+Не всегда хочется, чтобы приложения имели root права, это создает возможные уязвимости и вредит безопасности, добавим создание нового пользователя <br>
 `RUN useradd -m dockeruser` <br>
 `USER dockeruser`<br>
 <img width="649" height="77" alt="image" src="https://github.com/user-attachments/assets/851d36ac-da3b-4b87-80b9-9a7faa5d4db4" /><br>
