@@ -21,8 +21,6 @@ RUN apt-get update && apt-get install -y libaa-bin iputils-ping
 
 <img width="816" height="901" alt="image" src="https://github.com/user-attachments/assets/9273783d-c46a-4285-a1cf-424b6956d369" /><br>
 
-<img width="912" height="115" alt="image" src="https://github.com/user-attachments/assets/30f918d8-5980-471d-b729-7a29508d405f" /><br>
-
 ### 2 Не чистится кэш Apt
 Без очистки кэша размер образа увеличивается, перепишем вот так, теперь мы не только устанавливаем пакеты, но и чистим кэш
 ```
@@ -39,8 +37,6 @@ RUN apt-get update && \
 RUN useradd -m dockeruser
 USER dockeruser
 ```
-
-<img width="649" height="77" alt="image" src="https://github.com/user-attachments/assets/851d36ac-da3b-4b87-80b9-9a7faa5d4db4" /><br>
 ### Good dockerfile 
 <img width="255" height="496" alt="image" src="https://github.com/user-attachments/assets/f632a160-b4d8-4583-924a-cdada0c65587" /> <br>
 Исправлены основные ошибки, билдится стало как минимум в 2 раза быстрее
