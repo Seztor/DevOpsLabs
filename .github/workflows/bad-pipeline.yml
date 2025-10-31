@@ -28,7 +28,7 @@ jobs:
         run: npm run build
 
       - name: Build Docker image
-        run: docker build -t myapp:latest ./ci-cd
+        run: docker build -t myapp:latest .
 
 
       - name: Deploy to production
