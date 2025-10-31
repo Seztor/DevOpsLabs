@@ -20,15 +20,19 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+        working-directory: ci-cd 
 
       - name: Run tests
         run: npm test || true
+        working-directory: ci-cd 
 
       - name: Build application
         run: npm run build
+        working-directory: ci-cd 
 
       - name: Build Docker image
-        run: docker build -t myapp:latest .
+        run: docker build -t myapp:latest ./ci-cd
+
 
       - name: Deploy to production
         env:
