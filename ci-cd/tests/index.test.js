@@ -1,4 +1,4 @@
-const app = require('../src/index');
+const server = require('../src/index');
 
 describe('API Tests', () => {
   test('should return success message', () => {
@@ -6,6 +6,10 @@ describe('API Tests', () => {
   });
 
   test('app should be defined', () => {
-    expect(app).toBeDefined();
+    expect(server).toBeDefined();
   });
+});
+
+afterAll(() => {
+  server.close();
 });

@@ -7,8 +7,8 @@ app.get('/', (req, res) => {
   res.json({ message: 'Hello from CI/CD Pipeline!' });
 });
 
-app.listen(PORT, () => {
+const server = app.listen(PORT, () => {
   console.log(`Server run on port ${PORT}`);
 });
 
-module.exports = app;
+module.exports = server;
