@@ -72,16 +72,5 @@ jobs:
       url: https://myapp.example.com
 
     steps:
-      - name: Deploy via SSH
-        uses: appleboy/ssh-action@v0.1.10
-        with:
-          host: ${{ secrets.PROD_HOST }}
-          username: ${{ secrets.PROD_USER }}
-          key: ${{ secrets.SSH_PRIVATE_KEY }}
-          script: |
-            cd /app
-            docker login -u ${{ secrets.DOCKER_USERNAME }} -p ${{ secrets.DOCKER_PASSWORD }}
-            docker pull ${{ secrets.DOCKER_USERNAME }}/myapp:${{ github.sha }}
-            docker tag ${{ secrets.DOCKER_USERNAME }}/myapp:${{ github.sha }} myapp:latest
-            docker-compose up -d
-            docker logout
+      - name: Skip deploy
+        run: echo "No deployment server configured; skipping deploy step."
