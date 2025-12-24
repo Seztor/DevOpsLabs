@@ -12,14 +12,17 @@
 
 #### IaaS (Infrastructure as a Service)
 Аренда сервера или виртуальной машины в дата-центре<br>
+Управление ОС, приложениями, данными<br>
 Примеры: AWS EC2, Yandex Compute Cloud, Azure Virtual Machines
 
 #### PaaS (Platform as a Service)
 Аренда готовой площадки для разработки и запуска приложений<br>
+Управление кодом и данными приложения<br>
 Примеры: Heroku, Google App Engine, Yandex Cloud Serverless Containers
 
 #### SaaS (Software as a Service)
 Готовое приложение, доступное через браузер<br>
+Управление только своими данными и настройками<br>
 Примеры: Gmail, Salesforce, Microsoft 365, Яндекс Диск
 
 ### Практика
@@ -34,7 +37,10 @@
 `Service Sub Type` - "внутри продукта за какую именно часть мы платим?"<br>
 `Service Usage Type` - уточняет конкретную метрику<br>
 
-Будем использовать ресурс: https://docs.aws.amazon.com/
+Будем выполнять с помощью ресурса: https://docs.aws.amazon.com/<br>
+
+В итоге в конце классификацию получаем такую таблицу, подробнее ее можно посмотреть в файле `Mapping Rules AWS` <br><br>
+<img width="1153" height="924" alt="image" src="https://github.com/user-attachments/assets/8de4dee8-4be3-4cf7-9921-f8ed66a92ba7" />
 
 
 
