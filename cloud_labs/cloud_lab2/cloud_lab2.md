@@ -43,7 +43,8 @@
 `Service Usage Type` - уточняет конкретную метрику<br>
 
 В итоге получаем такую таблицу, подробнее ее можно посмотреть в файле `Mapping Rules AWS 2` <br><br>
-<img width="1524" height="754" alt="image" src="https://github.com/user-attachments/assets/0c2e5a93-d54e-4554-89fa-76e87b4cd419" />
+<img width="1279" height="665" alt="image" src="https://github.com/user-attachments/assets/d13b9906-8d0a-4b01-83b6-7fbea9e6f1e2" />
+
 
 В результате работы были изучены модели облачных сервисов (IaaS, PaaS, SaaS). Также в результате выполнения лабораторной работы была разработана сервисная модель.
 
