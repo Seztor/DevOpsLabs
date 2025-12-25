@@ -14,7 +14,8 @@
 
 ### Теория 
 Опять же вспомним немного теории<br>
-<img width="1025" height="512" alt="image" src="https://github.com/user-attachments/assets/7a66a308-1ee5-4ce2-a3b6-5815bc692ce1" />
+![Uploading image.png…]()
+
 
 #### IaaS (Infrastructure as a Service)
 Аренда сервера или виртуальной машины в дата-центре<br>
