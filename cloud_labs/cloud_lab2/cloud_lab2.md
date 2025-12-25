@@ -1,4 +1,4 @@
-### Лабораторная работа 2. Сравнение сервисов Amazon Web Services и Microsoft Azure. Создание единой кросс-провайдерной сервисной модели.
+<img width="1300" height="860" alt="image" src="https://github.com/user-attachments/assets/43de775b-8008-4a8c-9e71-a7ba52a341cf" />### Лабораторная работа 2. Сравнение сервисов Amazon Web Services и Microsoft Azure. Создание единой кросс-провайдерной сервисной модели.
 #### Вариант 7 (по последней цифре ису)
 
 ### Цель работы: 
@@ -13,8 +13,8 @@
 Сохранить файл и залить в соответствующую папку на Google Drive.
 
 ### Теория 
-Опять же вспомним немного теории<br>
-![Uploading image.png…]()
+Опять же вспомним немного теории
+<img width="1300" height="860" alt="image" src="https://github.com/user-attachments/assets/454cb465-733d-4b6a-b273-d25a1fd73926" />
 
 
 #### IaaS (Infrastructure as a Service)
